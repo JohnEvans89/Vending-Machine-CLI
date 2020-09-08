@@ -1,0 +1,4 @@
+
+System.out.println("(1) Display Vending Machine Items");
+System.out.println("(2) Purchase
+(3) Exit
